@@ -1,0 +1,21 @@
+{
+    "name": "persianyii/yii2-slider",
+    "description": "create slider used by array or db query data",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","slider"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "sina asadi",
+            "email": "s.asadi@keylid.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "persianyii\\slider\\": ""
+        }
+    }
+}
